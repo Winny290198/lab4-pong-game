@@ -1,7 +1,9 @@
 # lab4-pong-game
 Name of 3 members: 
 Han Le
+
 Nhu Nguyen
+
 Tong Trinh
 
 Linear Regression
